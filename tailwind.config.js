@@ -6,7 +6,7 @@ module.exports = {
       screens:{
         'xsm':{'max':'420px'},
         'small':{'max':'928px'},
-        'vsmall':{'max':'757px'},
+        'vsmall':{'max':'772px'},
         'medium':{'max':'1180px'}
       },
       backgroundColor:{

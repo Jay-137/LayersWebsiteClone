@@ -4,10 +4,10 @@ module.exports = {
   theme: {
     extend: {
       screens:{
-        'xsm':{'max':'420px'},
+        'medium':{'max':'1180px'},
         'small':{'max':'928px'},
         'vsmall':{'max':'772px'},
-        'medium':{'max':'1180px'}
+        'xsm':{'max':'420px'}
       },
       backgroundColor:{
         'greytrans':'#00000080'
